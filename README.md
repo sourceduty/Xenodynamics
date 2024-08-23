@@ -22,11 +22,17 @@ In summary, xenodynamics represents a versatile and far-reaching concept that ca
 [Xenodynamics](https://chatgpt.com/g/g-t5PM2bEd6-xenodynamics) was developed to to explore and explain the interactions between diverse and often unfamiliar entities or systems, a concept referred to as xenodynamics. The term "xenodynamics" is derived from the Greek words "xeno," meaning foreign or strange, and "dynamics," which pertains to the study of forces and motion. By focusing on the dynamic interactions between different systems—whether biological, physical, social, or technological—Xenodynamics aims to unravel the complexities of these interactions, identify underlying patterns, and predict potential outcomes.
 
 #
+
+> Alex: "*This is a new computational science subject and framework that was created by me for further scientific research.*"
+
+#
 ### Related Links
 
 [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
 <br>
 [Alien Life](https://github.com/sourceduty/Alien_Life)
+<br>
+[Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
