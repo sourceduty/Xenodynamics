@@ -98,7 +98,7 @@ In the social sciences, a Xenodynamic Simulator could be used to model the inter
 
 > "*I barely get this yet. More research needed.*"
 
-> "*New and experimental scientific reasearch subject.*"
+> "*New and experimental scientific research subject.*"
 
 #
 ### Related Links
