@@ -102,7 +102,7 @@ In the social sciences, a Xenodynamic Simulator could be used to model the inter
 
 #
 
-![Breaking New Grounds](https://github.com/user-attachments/assets/366e2403-a3ce-48ca-a720-a8fea716dcab)
+![Breaking New Grounds](https://github.com/user-attachments/assets/6feb15b9-01a1-4c8b-a71b-b8a1e63f9bde)
 
 #
 ### Related Links
