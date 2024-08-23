@@ -62,6 +62,8 @@ Analysis of Outcomes
 [Alien Life](https://github.com/sourceduty/Alien_Life)
 <br>
 [Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
+<br>
+[Computational Networks](https://github.com/sourceduty/Computational_Networks)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
