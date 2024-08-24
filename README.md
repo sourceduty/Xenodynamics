@@ -112,7 +112,7 @@ In the social sciences, a Xenodynamic Simulator could be used to model the inter
 
 > "*New and experimental scientific research subject.*"
 
-> "*Wow, No direct alternatives exist that are identical to Xenodynamics in purpose or functionality.*"
+> "*Wow, no direct alternatives exist that are identical to Xenodynamics in purpose or functionality.*"
 
 #
 
