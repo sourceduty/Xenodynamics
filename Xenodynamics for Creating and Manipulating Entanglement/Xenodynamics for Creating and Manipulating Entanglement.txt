@@ -1,0 +1,25 @@
+Xenodynamics for Creating and Manipulating Entanglement
+
+Overview
+
+Entanglement swapping is a quantum process where two particles, which have never interacted, become entangled through intermediary entangled particles. This method is crucial for establishing long-distance quantum communication and building quantum networks. This report outlines the process of entanglement swapping and demonstrates it using a quantum circuit simulation. This report outlines the basic principles of entanglement swapping and provides a Python-based simulation to demonstrate the concept. It serves as a practical guide for implementing entanglement swapping in quantum communication protocols.
+
+Process of Entanglement Swapping
+
+1. Start with Two Entangled Pairs:
+
+- Pair A: Particles A1 and A2
+- Pair B: Particles B1 and B2
+- Both pairs are in maximally entangled states, known as Bell states:
+- Pair A: |ψ⟩_A1A2 = (1/√2) (|00⟩ + |11⟩)
+- Pair B: |ψ⟩_B1B2 = (1/√2) (|00⟩ + |11⟩)
+
+2. Joint Measurement:
+
+- A Bell state measurement is performed on particles A2 and B1. This measurement collapses their combined state and entangles the remaining particles, A1 and B2.
+
+3. Outcome:
+
+- Particles A1 and B2 become entangled, forming a new entangled pair. The specific entangled state depends on the measurement outcome of A2 and B1.
+
+Entanglement swapping enables particles that have never interacted directly to become entangled through intermediary particles. This capability is foundational for constructing quantum repeaters and extending the reach of quantum communication networks, making it a cornerstone of quantum information science.
