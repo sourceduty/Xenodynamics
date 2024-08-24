@@ -114,6 +114,8 @@ In the social sciences, a Xenodynamic Simulator could be used to model the inter
 [Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
 <br>
 [Computational Networks](https://github.com/sourceduty/Computational_Networks)
+<br>
+[Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
