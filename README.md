@@ -133,7 +133,7 @@ In the social sciences, a Xenodynamic Simulator could be used to model the inter
 
 #
 
-![Underground Library](https://github.com/user-attachments/assets/32cfe2b9-b1e8-42fa-95b2-2656c25dcaa2)
+![Drilling](https://github.com/user-attachments/assets/02fa7807-db37-4f6e-bec8-f2fddb89e48b)
 
 #
 ### Related Links
