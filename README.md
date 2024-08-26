@@ -167,6 +167,8 @@ In the realm of digital technology and social sciences, xenodynamics research mi
 [Intelligence Benchmark](https://github.com/sourceduty/Intelligence_Benchmark)
 <br>
 [Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
+<br>
+[Diagnostic Physics](https://github.com/sourceduty/Diagnostic_Physics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
