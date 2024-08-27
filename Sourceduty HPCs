@@ -1,0 +1,19 @@
+Sourceduty HPCs
+
+Concept Plan for a Small HPC in Canada
+
+1. Define Requirements
+   - Purpose: Determine the primary applications and workloads (e.g., scientific simulations, data analysis, machine learning).
+   - Performance Needs: Assess the required computational power, memory, storage, and network bandwidth.
+   - Budget: Set a budget in the range of $20,000 to $50,000 CAD, allowing for flexibility in component selection and potential future upgrades.
+
+2. System Architecture
+   - Compute Nodes: Plan to include 4-8 nodes, each equipped with modern multi-core CPUs (e.g., AMD EPYC or Intel Xeon), 64-128 GB RAM per node, and local SSD storage for high-speed access.
+   - Networking: Implement a high-speed interconnect, such as Infiniband or 10-25 GbE Ethernet, to ensure fast communication between nodes.
+   - Storage: Design a shared storage system with at least 20-50 TB of capacity, using a RAID configuration for redundancy and performance. Network-attached storage (NAS) or a parallel file system like Lustre could be used.
+
+3. Infrastructure and Deployment
+   - Cooling and Power: Ensure adequate cooling and power supply, including UPS systems, to handle the increased power consumption and heat output.
+   - Software Stack: Install and configure an open-source HPC software stack, such as OpenHPC, which includes essential tools like Slurm for job scheduling, and MPI/OpenMP for parallel processing.
+   - Location: Choose a secure, climate-controlled space with sufficient physical security and network connectivity.
+   - Support and Maintenance: Arrange for ongoing support, including regular software updates, hardware maintenance, and system monitoring to ensure the HPC operates efficiently and reliably.
